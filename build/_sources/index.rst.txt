@@ -1,0 +1,22 @@
+Django E-commerce Project for Political Campaign
+================================================
+
+This documentation is for a Django project that sells merchandise via an e-commerce store for a political candidate.
+
+Activate the virtual environment
+-------------------------------
+To activate the virtual environment, navigate to the project directory and run the following command:
+
+.. code-block:: bash
+
+    source /Users/stevenlubbe/Dropbox/sl21070000276/3 - Data Science, Algorithms and Advanced Software Engineering/L3T10/puddle/env/bin/activate
+
+Run the server
+-------------
+To run the server, activate the virtual environment and navigate to the project directory. Then, run the following command:
+
+.. code-block:: bash
+
+    python manage.py runserver
+
+This will start the server on the default port 8000.
