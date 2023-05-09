@@ -15,6 +15,15 @@ def index(request):
     })
 
 def contact(request):
+    """
+    Render the contact page.
+
+    Args:
+        request: HttpRequest object
+
+    Returns:
+        A rendered HttpResponse object.
+    """
     return render(request, 'core/contact.html') 
 
 def signup(request):
