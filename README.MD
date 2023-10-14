@@ -12,7 +12,7 @@ Docker (optional)
 # Installation
 
 * Clone this repository to your local machine.
-Navigate to the root directory of the project.
+Navigate to the root directory of the project.(Puddle)
 Create a virtual environment by running the following command:
 Copy code
 virtualenv venv
@@ -51,8 +51,8 @@ Note: Replace your-secret-key-here with your own secret key for security reasons
 
 # Admin Login Details
 
-Username: adminn
-Password: lubbe
+Username: Peter
+Password: Vuuren#13
 User Login Details
 
 Username: Jason
